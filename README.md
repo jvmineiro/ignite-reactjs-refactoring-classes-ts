@@ -22,4 +22,4 @@ Para validar que as funcionalidades estão corretas, execute o comando `yarn tes
 ## Authors
 
 * **Rocketseat** - [Rocketseat](https://github.com/Rocketseat)
-* **Lucas Dib** - [LucasDibz](https://github.com/jvmineiro)
+* **João Vitor Mineiro** - [jvmineiro](https://github.com/jvmineiro)
